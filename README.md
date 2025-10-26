@@ -1,5 +1,3 @@
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-26 at 11 32 09" src="https://github.com/user-attachments/assets/393d9504-ce77-492e-a622-3f242338616d" /># 🎬 CinemaVault
-
 **CinemaVault** is an iOS app that lets you explore popular movies, view detailed information, watch trailers, search for movies, and manage your favorites.  
 Built with **Swift**, **UIKit**, and **Alamofire**, integrating **The Movie Database (TMDb) API**.
 
